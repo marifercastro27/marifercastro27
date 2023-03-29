@@ -1,9 +1,18 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/129327852/228647463-2d06a610-7055-4068-b467-adf4f53a53b6.jpeg)
+
+<img src="https://profile-counter.glitch.me/marifercastro27/count.svg" />
+
+![image](https://user-images.githubusercontent.com/129327852/228647614-59d893bd-c4eb-45af-9ca5-75443a610e9e.jpeg)
+
+
+
 <!--
 **marifercastro27/marifercastro27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![image](https://user-images.githubusercontent.com/129327852/228647463-2d06a610-7055-4068-b467-adf4f53a53b6.jpeg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
